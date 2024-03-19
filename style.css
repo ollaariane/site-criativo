@@ -3,6 +3,11 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Embed code', sans-serif;
+}
+
+
 .cabecalho{
     background-color: #667B35;
     color: black;
